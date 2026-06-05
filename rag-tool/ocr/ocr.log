@@ -1,0 +1,129 @@
+[12:49:44] === OCR: 844982701-NBR-17193-SEGURANCA-CONTRA-INCENDIOS-EM-INSTALACOES-FOTOVOLTAICAS.pdf
+Starting processing with 12 workers concurrently
+   15 [tesseract] lots of diacritics - possibly poor OCR
+Parsing 20 pages with HocrParser
+Postprocessing...
+Image optimization ratio: 1.15 savings: 12.8%
+Total file size ratio: 1.72 savings: 42.0%
+[12:50:14] === OK: 844982701-NBR-17193-SEGURANCA-CONTRA-INCENDIOS-EM-INSTALACOES-FOTOVOLTAICAS.pdf
+[12:50:14] === OCR: pdfcoffee.com_nbr-iec-62116-2012-8-pdf-free.pdf
+Starting processing with 12 workers concurrently
+    3 [tesseract] lots of diacritics - possibly poor OCR
+Parsing 27 pages with HocrParser
+Postprocessing...
+Image optimization ratio: 1.12 savings: 11.1%
+Total file size ratio: 1.43 savings: 30.2%
+[12:50:54] === OK: pdfcoffee.com_nbr-iec-62116-2012-8-pdf-free.pdf
+[12:50:54] === OCR: pdfcoffee.com_nbr-15749-malha-de-aterramentopdf-pdf-free.pdf
+Starting processing with 12 workers concurrently
+    1 [tesseract] lots of diacritics - possibly poor OCR
+    3 [tesseract] lots of diacritics - possibly poor OCR
+Parsing 54 pages with HocrParser
+Postprocessing...
+Image optimization ratio: 1.12 savings: 10.7%
+Total file size ratio: 1.01 savings: 0.9%
+[12:52:15] === OK: pdfcoffee.com_nbr-15749-malha-de-aterramentopdf-pdf-free.pdf
+[12:52:15] === OCR: pdfcoffee.com_nbr-6855-2018-transformador-de-potencial-indutivo-pdf-free.pdf
+Starting processing with 12 workers concurrently
+   22 [tesseract] lots of diacritics - possibly poor OCR
+   60 [tesseract] lots of diacritics - possibly poor OCR
+   76 [tesseract] lots of diacritics - possibly poor OCR
+Parsing 92 pages with HocrParser
+Postprocessing...
+Image optimization ratio: 1.09 savings: 8.4%
+Total file size ratio: 1.07 savings: 6.5%
+[12:54:11] === OK: pdfcoffee.com_nbr-6855-2018-transformador-de-potencial-indutivo-pdf-free.pdf
+[12:54:11] === OCR: pdfcoffee.com_nbr-14039-pdf-free.pdf
+Error occurred parsing XMP, replacing with empty XMP.
+InputFileError
+[12:54:13] === FALHOU (exit 2): pdfcoffee.com_nbr-14039-pdf-free.pdf
+[12:54:13] === OCR: pdfcoffee.com_nbr-5356-completa-1a5-pdf-free.pdf
+Starting processing with 12 workers concurrently
+   12 [tesseract] lots of diacritics - possibly poor OCR
+   10 [tesseract] lots of diacritics - possibly poor OCR
+   18 [tesseract] lots of diacritics - possibly poor OCR
+   16 [tesseract] lots of diacritics - possibly poor OCR
+   20 [tesseract] lots of diacritics - possibly poor OCR
+   17 [tesseract] lots of diacritics - possibly poor OCR
+   21 [tesseract] lots of diacritics - possibly poor OCR
+   22 [tesseract] lots of diacritics - possibly poor OCR
+   19 [tesseract] lots of diacritics - possibly poor OCR
+   24 [tesseract] lots of diacritics - possibly poor OCR
+   23 [tesseract] lots of diacritics - possibly poor OCR
+   28 [tesseract] lots of diacritics - possibly poor OCR
+   34 [tesseract] lots of diacritics - possibly poor OCR
+   35 [tesseract] lots of diacritics - possibly poor OCR
+   36 [tesseract] lots of diacritics - possibly poor OCR
+   32 [tesseract] lots of diacritics - possibly poor OCR
+   26 [tesseract] lots of diacritics - possibly poor OCR
+   31 [tesseract] lots of diacritics - possibly poor OCR
+   38 [tesseract] lots of diacritics - possibly poor OCR
+   42 [tesseract] lots of diacritics - possibly poor OCR
+   41 [tesseract] lots of diacritics - possibly poor OCR
+   37 [tesseract] lots of diacritics - possibly poor OCR
+   43 [tesseract] lots of diacritics - possibly poor OCR
+   27 [tesseract] lots of diacritics - possibly poor OCR
+   40 [tesseract] lots of diacritics - possibly poor OCR
+   44 [tesseract] lots of diacritics - possibly poor OCR
+   45 [tesseract] lots of diacritics - possibly poor OCR
+   49 [tesseract] lots of diacritics - possibly poor OCR
+   46 [tesseract] lots of diacritics - possibly poor OCR
+   48 [tesseract] lots of diacritics - possibly poor OCR
+   47 [tesseract] lots of diacritics - possibly poor OCR
+   50 [tesseract] lots of diacritics - possibly poor OCR
+   57 [tesseract] lots of diacritics - possibly poor OCR
+   54 [tesseract] lots of diacritics - possibly poor OCR
+   59 [tesseract] lots of diacritics - possibly poor OCR
+   53 [tesseract] lots of diacritics - possibly poor OCR
+   60 [tesseract] lots of diacritics - possibly poor OCR
+   51 [tesseract] lots of diacritics - possibly poor OCR
+   66 [tesseract] lots of diacritics - possibly poor OCR
+   65 [tesseract] lots of diacritics - possibly poor OCR
+   72 [tesseract] lots of diacritics - possibly poor OCR
+   75 [tesseract] lots of diacritics - possibly poor OCR
+   78 [tesseract] lots of diacritics - possibly poor OCR
+   70 [tesseract] lots of diacritics - possibly poor OCR
+   76 [tesseract] lots of diacritics - possibly poor OCR
+   73 [tesseract] lots of diacritics - possibly poor OCR
+   82 [tesseract] lots of diacritics - possibly poor OCR
+   74 [tesseract] lots of diacritics - possibly poor OCR
+   71 [tesseract] lots of diacritics - possibly poor OCR
+   83 [tesseract] lots of diacritics - possibly poor OCR
+   87 [tesseract] lots of diacritics - possibly poor OCR
+   86 [tesseract] lots of diacritics - possibly poor OCR
+   85 [tesseract] lots of diacritics - possibly poor OCR
+   88 [tesseract] lots of diacritics - possibly poor OCR
+   84 [tesseract] lots of diacritics - possibly poor OCR
+   94 [tesseract] lots of diacritics - possibly poor OCR
+   92 [tesseract] lots of diacritics - possibly poor OCR
+   89 [tesseract] lots of diacritics - possibly poor OCR
+   98 [tesseract] lots of diacritics - possibly poor OCR
+  102 [tesseract] lots of diacritics - possibly poor OCR
+  101 [tesseract] lots of diacritics - possibly poor OCR
+  108 [tesseract] lots of diacritics - possibly poor OCR
+  112 [tesseract] lots of diacritics - possibly poor OCR
+  113 [tesseract] lots of diacritics - possibly poor OCR
+  110 [tesseract] lots of diacritics - possibly poor OCR
+  106 [tesseract] lots of diacritics - possibly poor OCR
+  115 [tesseract] lots of diacritics - possibly poor OCR
+  126 [tesseract] lots of diacritics - possibly poor OCR
+  144 [tesseract] lots of diacritics - possibly poor OCR
+  183 [tesseract] lots of diacritics - possibly poor OCR
+  198 [tesseract] lots of diacritics - possibly poor OCR
+Parsing 269 pages with HocrParser
+Suppressing OCR output text with improbable aspect ratio
+Suppressing OCR output text with improbable aspect ratio
+Suppressing OCR output text with improbable aspect ratio
+Suppressing OCR output text with improbable aspect ratio
+Postprocessing...
+Image optimization did not improve the file - optimizations will not be used
+Image optimization ratio: 1.00 savings: -0.2%
+Total file size ratio: 0.65 savings: -53.0%
+The output file size is 1.53× larger than the input file.
+Possible reasons for this include:
+--force-ocr (or --mode force) was issued, causing transcoding.
+The optional dependency 'jbig2' was not found, so some image optimizations could not be attempted.
+The optional dependency 'pngquant' was not found, so some image optimizations could not be attempted.
+
+[13:01:34] === OK: pdfcoffee.com_nbr-5356-completa-1a5-pdf-free.pdf
+[13:01:34] Concluído. Falhas: ['pdfcoffee.com_nbr-14039-pdf-free.pdf']
